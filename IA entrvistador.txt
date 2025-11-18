@@ -1,0 +1,96 @@
+Claro, Márcio! Com base na sua rotina de estudos — **4 horas por dia durante a semana** e **5 horas nos fins de semana** — aqui vai um plano de estudos estruturado para você se tornar um **Dev Back-end Java Júnior** em cerca de 4 a 6 meses.
+
+---
+
+## 🗺️ Plano de Estudos: Dev Back-end Java Júnior
+
+### ⏱️ Carga horária semanal: 25 horas  
+- Segunda a sexta: 4h/dia → 20h  
+- Sábado e domingo: 2,5h/dia → 5h
+
+---
+
+### 📦 Estrutura do Plano (por FASE)
+
+#### **Fase 1: Fundamentos de Java (3 semanas)**
+**Objetivo:** Dominar sintaxe, lógica e POO em Java  
+**Conteúdo:**
+- Tipos de dados, variáveis, operadores
+- Estruturas de controle (if, switch, loops)
+- Métodos e arrays
+- Programação orientada a objetos (classes, herança, polimorfismo)
+- Boas práticas de código
+
+**Recursos sugeridos:**  
+- Curso Java Developer (DIO)  
+- Java COMPLETO (Udemy – Nélio Alves ou Loiane)
+
+---
+
+#### **Fase 2: Java com Spring Boot (4 semanas)**
+**Objetivo:** Criar APIs REST com Spring Boot  
+**Conteúdo:**
+- Spring Boot: estrutura, dependências, configuração
+- Controllers, Services, Repositories
+- Injeção de dependência
+- Tratamento de erros e validações
+- Testes básicos com JUnit
+
+**Recursos sugeridos:**  
+- Spring Boot Experience (DIO)  
+- AlgaWorks: Fundamentos do Spring
+
+---
+
+#### **Fase 3: Banco de Dados e SQL (2 semanas)**
+**Objetivo:** Dominar SQL e integração com Spring  
+**Conteúdo:**
+- Comandos SQL (SELECT, INSERT, UPDATE, DELETE)
+- Joins, filtros, ordenações
+- Modelagem de dados
+- JPA e Hibernate
+- Spring Data JPA
+
+**Recursos sugeridos:**  
+- SQL para Iniciantes (Udemy)  
+- AlgaWorks: JPA e Hibernate
+
+---
+
+#### **Fase 4: Projeto Prático (3 semanas)**
+**Objetivo:** Consolidar aprendizados com um projeto completo  
+**Sugestão de projeto:** API de cadastro de clientes com autenticação  
+**Inclua:**
+- CRUD completo
+- Validações
+- Integração com banco de dados
+- Documentação com Swagger
+- Deploy no Heroku ou Render
+
+---
+
+#### **Fase 5: Soft Skills e Preparação para Vagas (contínuo)**
+**Objetivo:** Desenvolver comunicação, trabalho em equipe e preparar currículo  
+**Atividades:**
+- Participar de comunidades (Discord da DIO, GitHub, LinkedIn)
+- Simular entrevistas técnicas
+- Criar perfil no GitHub com README e projetos
+- Atualizar LinkedIn com foco em transição de carreira
+
+---
+
+### 🗓️ Exemplo de Cronograma Semanal
+
+| Dia       | Atividade Principal                         | Tempo |
+|-----------|---------------------------------------------|-------|
+| Segunda   | Java + exercícios práticos                  | 4h    |
+| Terça     | Java + mini-projetos                        | 4h    |
+| Quarta    | Spring Boot + teoria                        | 4h    |
+| Quinta    | Spring Boot + prática (API simples)         | 4h    |
+| Sexta     | SQL + integração com Spring                 | 4h    |
+| Sábado    | Projeto prático + revisão                   | 2.5h  |
+| Domingo   | Soft skills + GitHub + networking           | 2.5h  |
+
+---
+
+Se quiser, posso adaptar esse plano para incluir mais foco em testes, segurança, ou até front-end básico. Quer que eu personalize mais alguma parte?
