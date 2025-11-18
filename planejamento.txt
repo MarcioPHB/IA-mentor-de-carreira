@@ -1,0 +1,142 @@
+Perfeito, marcio! Com 14 horas semanais e agora um plano estendido para **120 dias**, conseguimos aprofundar ainda mais os fundamentos e incluir o GitHub como parte essencial da sua jornada DevOps.
+
+Aqui está seu plano atualizado:
+
+---
+
+## 🧩 VISÃO DO DIA A DIA
+
+Como é o trabalho de um(a) DevOps e especialista em automação:
+
+- Criar e manter pipelines de integração e entrega contínua (CI/CD)
+- Automatizar tarefas de infraestrutura com scripts e ferramentas
+- Monitorar sistemas e garantir alta disponibilidade
+- Trabalhar com containers e orquestradores como Docker e Kubernetes
+- Colaborar com desenvolvedores para melhorar o ciclo de vida de software
+
+---
+
+## 🧠 MAPA DE SKILLS
+
+**CORE SKILLS (essenciais):**
+- Fundamentos de Linux e redes
+- Programação em shell script e Python
+- Conceitos de CI/CD e automação
+
+**NICE-TO-HAVE (complementares):**
+- Conhecimentos em Java para integração com sistemas legados
+- Infraestrutura como código (Terraform, Ansible)
+
+**FERRAMENTAS E TECNOLOGIAS:**
+- Git e GitHub
+- Docker e Kubernetes
+- Jenkins, GitLab CI, GitHub Actions
+
+---
+
+## 📅 ROADMAP DE 120 DIAS
+
+**ADAPTADO PARA: 14 horas/semana**
+
+### MÊS 1 - FUNDAMENTOS
+
+**SEMANA 1-2:**
+- Aprender comandos básicos de Linux e estrutura de diretórios
+- Estudar redes: IP, DNS, HTTP, SSH
+
+**SEMANA 3-4:**
+- Introdução ao Git e GitHub: versionamento, branches, pull requests
+- Fundamentos de shell script e automação simples
+
+### MÊS 2 - PRÁTICA
+
+**SEMANA 5-6:**
+- Criar pipelines simples com GitHub Actions
+- Aprender sobre containers com Docker
+
+**SEMANA 7-8:**
+- Estudar orquestração com Kubernetes
+- Automatizar deploys com CI/CD
+
+### MÊS 3 - INFRAESTRUTURA E MONITORAMENTO
+
+**SEMANA 9-10:**
+- Infraestrutura como código com Terraform
+- Automatizações com Ansible
+
+**SEMANA 11-12:**
+- Monitoramento com Prometheus e Grafana
+- Práticas de observabilidade e logs
+
+### MÊS 4 - PORTFÓLIO E PREPARAÇÃO
+
+**SEMANA 13-14:**
+- Criar projeto completo com CI/CD, Docker, Kubernetes e GitHub
+- Refatorar e documentar o projeto no GitHub
+
+**SEMANA 15-16:**
+- Simular entrevistas técnicas
+- Revisar conceitos e montar plano de evolução contínua
+
+---
+
+## 🚀 PROJETO DE PORTFÓLIO
+
+**PROJETO: Infraestrutura Automatizada para Aplicação Java**
+
+**O QUE FAZER:**
+Criar uma aplicação Java simples e configurar toda a infraestrutura automatizada para deploy contínuo usando Docker, GitHub Actions e Kubernetes.
+
+**ENTREGÁVEIS:**
+- Repositório com código Java e Dockerfile
+- Pipeline CI/CD funcional
+- Infraestrutura como código (Terraform ou Ansible)
+
+**CRITÉRIOS DE ACEITAÇÃO:**
+- Aplicação sobe automaticamente após push no GitHub
+- Infraestrutura replicável com código
+- Documentação clara no README
+
+**DICA:** Use o GitHub como vitrine: README bem escrito, commits organizados e issues para registrar progresso.
+
+---
+
+## 💬 ROTEIRO DE ENTREVISTAS
+
+**PERGUNTA 1:** O que é CI/CD e por que é importante?  
+**COMO RESPONDER:** CI/CD é a prática de integrar e entregar código continuamente. Isso reduz erros, acelera entregas e melhora a colaboração entre equipes.
+
+**PERGUNTA 2:** Como você configuraria um pipeline de deploy automatizado?  
+**COMO RESPONDER:** Usaria GitHub Actions para rodar testes, buildar a imagem Docker e fazer deploy em um cluster Kubernetes via kubectl ou Helm.
+
+**PERGUNTA 3:** Qual a diferença entre Docker e Kubernetes?  
+**COMO RESPONDER:** Docker cria e gerencia containers. Kubernetes orquestra esses containers, garantindo escalabilidade, disponibilidade e gerenciamento de recursos.
+
+**PERGUNTA 4:** O que é infraestrutura como código?  
+**COMO RESPONDER:** É a prática de definir e gerenciar infraestrutura com arquivos de configuração, como Terraform ou Ansible, permitindo automação e versionamento.
+
+**PERGUNTA 5:** Como você lidaria com um erro em produção?  
+**COMO RESPONDER:** Primeiro analisaria logs e métricas, isolaria o problema, aplicaria correção em ambiente de testes e só depois faria o deploy com rollback preparado.
+
+---
+
+## 🎓 TRILHA DIO RECOMENDADA
+
+**TRILHA: Potência Tech iFood - DevOps**
+
+**POR QUE ESSA TRILHA:**
+Ela cobre desde fundamentos de Linux até práticas modernas de CI/CD, Docker e Kubernetes, com projetos práticos e mentorias.
+
+**PRÓXIMOS PASSOS:**
+1. Acesse [dio.me](https://dio.me)
+2. Busque por "Potência Tech iFood - DevOps"
+3. Inscreva-se gratuitamente
+4. Siga o cronograma junto com este roadmap
+
+---
+
+✨ Seu plano está pronto!
+
+Com 120 dias e dedicação semanal consistente, você terá uma base sólida para migrar de área com confiança. GitHub será sua vitrine profissional — mantenha tudo bem documentado e atualizado.
+
+Quer que eu te ajude a montar o README do projeto ou revisar seu perfil do GitHub? Posso te apoiar nisso também!

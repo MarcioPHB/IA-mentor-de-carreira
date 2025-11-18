@@ -1,0 +1,83 @@
+Perfeito! Tenho tudo que preciso. Deixa eu analisar o melhor caminho para você...
+
+## 📊 ANÁLISE DE PERFIL
+
+**Resumo do seu perfil:**
+- 🎯 Interesse principal: resolver problemas
+- 🚀 Experiência: começando do zero
+- ⏱️ Disponibilidade: 14 horas por semana
+- 🧠 Preferência: lidar com código
+- 🎯 Objetivo: mudar de emprego ou migrar de função na empresa atual
+- 💻 Interesse técnico: infraestrutura
+- 🏦 Experiência prévia: trabalha em banco (área não técnica)
+
+Agora vamos às melhores opções para você!
+
+---
+
+## Com base no seu perfil, identifiquei 3 carreiras muito promissoras:
+
+════════════════════════════════════════════════════════════  
+🥇 **1º LUGAR: Suporte Técnico e Infraestrutura** — 18/20  
+════════════════════════════════════════════════════════════  
+
+💡 **POR QUE COMBINA COM VOCÊ:**  
+Você gosta de resolver problemas e tem interesse direto em infraestrutura. Essa área é ideal para quem está começando e quer entender como os sistemas funcionam por trás das cortinas.
+
+⚖️ **O QUE ESPERAR:**  
+**VANTAGENS:**  
+- Entrada mais acessível para iniciantes  
+- Alta demanda em empresas grandes, como bancos  
+
+**DESAFIOS:**  
+- Requer atenção a detalhes e paciência com processos  
+- Pode envolver plantões ou suporte fora do horário comercial  
+
+📈 **MERCADO:**  
+Muito aquecido, especialmente em empresas que dependem de sistemas robustos e seguros — como instituições financeiras. A demanda varia por região, mas é constante em ambientes corporativos.
+
+---
+
+════════════════════════════════════════════════════════════  
+🥈 **2º LUGAR: DevOps e Automação de Infraestrutura** — 16/20  
+════════════════════════════════════════════════════════════  
+
+💡 **POR QUE COMBINA COM VOCÊ:**  
+Você curte código e infraestrutura — DevOps une os dois. É uma área estratégica que automatiza processos e melhora a eficiência dos sistemas.
+
+⚖️ **O QUE ESPERAR:**  
+**VANTAGENS:**  
+- Alta valorização no mercado  
+- Possibilidade de trabalhar com ferramentas modernas  
+
+**DESAFIOS:**  
+- Curva de aprendizado mais intensa  
+- Exige conhecimento de várias ferramentas e boas práticas  
+
+📈 **MERCADO:**  
+Em crescimento acelerado, especialmente em empresas que estão migrando para nuvem ou adotando práticas ágeis. A demanda varia conforme o porte da empresa e maturidade tecnológica.
+
+---
+
+════════════════════════════════════════════════════════════  
+🥉 **3º LUGAR: Segurança da Informação (Cybersecurity)** — 15/20  
+════════════════════════════════════════════════════════════  
+
+💡 **POR QUE COMBINA COM VOCÊ:**  
+Infraestrutura e bancos têm tudo a ver com segurança. Se você gosta de resolver problemas e proteger sistemas, essa área pode ser muito estratégica.
+
+⚖️ **O QUE ESPERAR:**  
+**VANTAGENS:**  
+- Alta relevância em setores financeiros  
+- Possibilidade de especialização em áreas críticas  
+
+**DESAFIOS:**  
+- Exige atualização constante  
+- Pode envolver cenários de risco e pressão  
+
+📈 **MERCADO:**  
+Muito forte em instituições financeiras, governo e empresas com dados sensíveis. A demanda varia por região e nível de especialização.
+
+---
+
+**Qual dessas carreiras te chamou mais atenção?**
